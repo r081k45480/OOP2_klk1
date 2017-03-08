@@ -1,0 +1,32 @@
+<Skladiste>
+    <Proizvod>
+        <Proizvod>S102</Proizvod>
+        <Naziv>Sraf 0.2</Naziv>
+        <Kolicina>2743</Kolicina>
+        <Cena>11.50</Cena>
+    </Proizvod>
+    <Proizvod>
+        <Proizvod>S103</Proizvod>
+        <Naziv>Sraf 0.3</Naziv>
+        <Kolicina>1832</Kolicina>
+        <Cena>12.75</Cena>
+    </Proizvod>
+    <Proizvod>
+        <Proizvod>S105</Proizvod>
+        <Naziv>Sraf 0.5</Naziv>
+        <Kolicina>1023</Kolicina>
+        <Cena>14.90</Cena>
+    </Proizvod>
+    <Proizvod>
+        <Proizvod>A201</Proizvod>
+        <Naziv>Lopata</Naziv>
+        <Kolicina>15</Kolicina>
+        <Cena>155.00</Cena>
+    </Proizvod>
+    <Proizvod>
+        <Proizvod>A203</Proizvod>
+        <Naziv>Sekira</Naziv>
+        <Kolicina>24</Kolicina>
+        <Cena>205.75</Cena>
+    </Proizvod>
+</Skladiste>
